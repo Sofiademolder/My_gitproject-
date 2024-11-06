@@ -39,7 +39,7 @@ Routine from loacl to remote:
 ```
 git status
 git add <file>
-git commit -m '"eaningful message"
+git commit -m "meaningful message"
 git push
 
 ```
