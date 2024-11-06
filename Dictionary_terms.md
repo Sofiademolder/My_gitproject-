@@ -8,3 +8,7 @@
 1. Dev. area: the folder on the computer where the project is created
 2. Staging area: where you prepare your snapshot that will go in my time line 
 3. Local repository: your time line   
+
+## Definitions
+
+-working tree area: this will tell you if you have any files left to be commited, staged or even tracked. You can check this by using 'git status'. if everything is okay, we will get a message saying: "nothing to commit, working tree clean"
