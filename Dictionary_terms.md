@@ -35,4 +35,6 @@ Git clone takes everything from the repository and puts it locally
 
 Push and pull are very important to avoid conflicts! 
 
-
+Go to settings on GitHub and select collaborators (login with the Authenticator on your phone)
+You can add people by username of by email 
+This person then needs to accept the collaboration
