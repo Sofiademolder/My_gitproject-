@@ -17,3 +17,16 @@
 - What happens if I forget the '-m' in the commit command? Git will force you to write a message! There is an advantage tho. In this way you will be able to write a longer message. Do 'i' (= insert) and write a longer message if you want this (text editor will open automatically)
 
 - Why do you use a staging area? when you make unrelated changes to different documents, you don't want to commit them with the same message. By putting them one by one in the staging area, and then commiting a message, you can give them different meaningful messages. 
+
+## Solving issues
+
+- How can I go back to the old version of my file if I accidentally changed something? 
+git revert <ID>: you find the <ID> by using git log of the document you want to revert (get rid of this one)
+
+- How can I recover my local repository if I deleted it completely? 
+git clone <SSH>: this will not restore the files from the .ignore file!  
+git clone <HTTPS>: if you don't own the repository (SSH will not work) 
+
+- What is the difference between git clone and git pull? 
+Git pull will add all the new commits made and put them locally (it will not make a cross-reference)
+Git clone takes everything from the repository and puts it locally 
