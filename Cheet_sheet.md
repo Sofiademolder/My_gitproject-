@@ -21,8 +21,25 @@ If you want to do git add for all the files you can do: git add *
 The first line is the unique identifier of each commit 
 The second line is to see who commited
 The third line is the time and date when this was commited
-git log -n 'number': limits the history 
-git log --abbrev-commit: gives you a shorter ID that will still be unique 
-- git diff HEAD 'unique ID': to travel in your timeline, to check differences between versions
-- git diff 'unique ID' HEAD: the order matters! now you see the opposite (things that have been added will look like they have been deleted)
-- git show: will print all files with info per line for each file of what has been modified 
+- git log -n 'number': limits the history 
+git log --abbrev-commit: gives you a short- er ID that will still be unique 
+- git diff HEAD <ID>: to travel in your timeline, to check differences between versions
+- git diff <ID> HEAD: the order matters! now you see the opposite (things that have been added will look like they have been deleted)
+- git show HEAD <ID>: will print all files with info per line for each file of what has been modified 
+
+## Connect with GitHub
+
+- You will need to create a repository on GitHub first
+- git remote add <name> <ssh>: create bridge between local and remote
+- git push -u master: this is what you do the first time you connect to push locally to the remote
+- git push: now you will have pushed everything that has been commited from your local computer to GitHub
+- git pull: when you or somebody else made a change on GitHub and you want to pull this change (= a commit) locally (e.g.: a new file)
+
+Routine from loacl to remote:
+```
+git status
+git add <file>
+git commit -m '"eaningful message"
+git push
+
+```
