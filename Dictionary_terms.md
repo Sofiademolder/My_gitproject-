@@ -29,4 +29,10 @@ git clone <HTTPS>: if you don't own the repository (SSH will not work)
 
 - What is the difference between git clone and git pull? 
 Git pull will add all the new commits made and put them locally (it will not make a cross-reference)
-Git clone takes everything from the repository and puts it locally 
+Git clone takes everything from the repository and puts it locally
+
+## Collaborating on GitHub
+
+Push and pull are very important to avoid conflicts! 
+
+
