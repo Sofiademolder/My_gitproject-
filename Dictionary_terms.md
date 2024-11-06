@@ -12,3 +12,5 @@
 ## Definitions
 
 -working tree area: this will tell you if you have any files left to be commited, staged or even tracked. You can check this by using 'git status'. if everything is okay, we will get a message saying: "nothing to commit, working tree clean"
+
+What happens if I forget the '-m' in the commit command?
