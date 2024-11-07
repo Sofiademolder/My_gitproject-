@@ -3,6 +3,10 @@
 - Git: Time line
 - GitHub: Backup of the time line
 
+You need to review and accept my amazing suggestion!
+
+
+
 ## Conceptual Areas
 
 1. Dev. area: the folder on the computer where the project is created
