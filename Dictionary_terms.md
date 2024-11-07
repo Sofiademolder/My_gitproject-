@@ -92,4 +92,8 @@ Use of a branch:
 
 ## Tagging
 
-Tagging is used to give a name to your commits. I don't understand why you would need this. 
+Tagging is used to give a name to your commits. I don't understand why you would need this. I think it is useful if you want to releases diferent versions of your work, and this then allows you to give your work specific names. People can then download the versions (names by the tag), which will be a zip file. 
+
+## Forking
+
+Makes a complete copy of the current state of a master branch. You will now earn this 'fork' of the project in this state. 
