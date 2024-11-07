@@ -101,3 +101,10 @@ Tagging is used to give a name to your commits. I don't understand why you would
 ## Forking
 
 Makes a complete copy of the current state of a master branch. You will now earn this 'fork' of the project in this state. 
+
+## Working remoteley
+
+Go to your project in GitHub and press '.'
+You will not be able to stage, and everything you commit is immediately pushed 
+(There is no terminal)
+You need to commit and push by clicking on the branch symbol on the right 
