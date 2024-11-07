@@ -52,3 +52,11 @@ Creating parallel timelines
 When creating a parallel timeline, the folder in your computer becomes a portal that shows only the reality you choose to be.
 
 when doing `git check <branch>` you choose which reality you are updating, therefore the one you see in your folder.
+
+
+Helloooo
+I hope you are enjoying!!
+You are welcome to get in touch later if you have extra questions or challange.
+I'll be happy to help!
+
+cheer
