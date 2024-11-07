@@ -90,3 +90,6 @@ Use of a branch:
 - Collaborate in a project: you can work at the same time if you both use your own branch 
 - Use different versions of a software
 
+## Tagging
+
+Tagging is used to give a name to your commits. I don't understand why you would need this. 
