@@ -107,4 +107,4 @@ Makes a complete copy of the current state of a master branch. You will now earn
 Go to your project in GitHub and press '.'
 You will not be able to stage, and everything you commit is immediately pushed 
 (There is no terminal)
-You need to commit and push by clicking on the branch symbol on the right 
+You need to commit and push by clicking on the branch symbol on the right
