@@ -43,6 +43,7 @@ This person then needs to accept the collaboration
 
 see presentation
 
+
 ## Branching
 
 Creating parallel timelines
@@ -59,4 +60,18 @@ I hope you are enjoying!!
 You are welcome to get in touch later if you have extra questions or challange.
 I'll be happy to help!
 
-cheer
+cheers
+
+## Working in an alternative universe: branching
+
+Creating a branch:
+- Alternative history of commits
+- Specific names
+- Independent timelines
+- Connected to a moment in time 
+
+Use of a branch:
+- Experiment risk free
+- Collaborate in a project: you can work at the same time if you both use your own branch 
+- Use different versions of a software 
+

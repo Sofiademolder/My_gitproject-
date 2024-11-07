@@ -47,3 +47,8 @@ git push
 ```
 
 ## Working in an alternative universe: branching
+
+- git branch <name>: create a new branch
+- git checout <name>: change to anther branch
+- git status: check what branch you are in now 
+- git status -a: shows all the branches (remotes: means that it is on github)
