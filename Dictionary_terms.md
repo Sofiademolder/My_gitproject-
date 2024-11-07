@@ -42,3 +42,11 @@ This person then needs to accept the collaboration
 ## Solving conflicts 
 
 see presentation
+
+## Branching and the use of it
+
+- Alternative history
+- Specific names
+- Independent timelines
+- Connected to a moment in time
+
