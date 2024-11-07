@@ -58,6 +58,25 @@ see presentation
 when you want to merch branches back together
 Very likely to run into a conflict here! But minimize the number of conflicts and name one person to be responsible for solving them 
 
+## Branching
+
+Creating parallel timelines
+
+### The mirror effect
+
+When creating a parallel timeline, the folder in your computer becomes a portal that shows only the reality you choose to be.
+
+when doing `git check <branch>` you choose which reality you are updating, therefore the one you see in your folder.
+
+
+Helloooo
+I hope you are enjoying!!
+You are welcome to get in touch later if you have extra questions or challange.
+I'll be happy to help!
+
+cheers
+
+
 ## Working in an alternative universe: branching
 
 Creating a branch:
@@ -70,3 +89,4 @@ Use of a branch:
 - Experiment risk free
 - Collaborate in a project: you can work at the same time if you both use your own branch 
 - Use different versions of a software
+
