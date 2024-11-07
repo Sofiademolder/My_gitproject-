@@ -18,6 +18,8 @@
 
 - Why do you use a staging area? when you make unrelated changes to different documents, you don't want to commit them with the same message. By putting them one by one in the staging area, and then commiting a message, you can give them different meaningful messages. 
 
+- Detached head: 
+
 ## Solving issues
 
 - How can I go back to the old version of my file if I accidentally changed something? 
@@ -49,4 +51,10 @@ see presentation
 - Specific names
 - Independent timelines
 - Connected to a moment in time
+
+## Merging
+
+- git merge <branch_name>: 
+when you want to merch branches back together
+Very likely to run into a conflict here! But minimize the number of conflicts and name one person to be responsible for solving them 
 

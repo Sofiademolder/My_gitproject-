@@ -28,6 +28,7 @@ git log --abbrev-commit: gives you a short- er ID that will still be unique
 - git show HEAD <ID>: will print all files with info per line for each file of what has been modified 
 - git revert: undo a change
 - git rebase: more drastic
+- git switch <new-branch-name>: 
 
 ## Connect with GitHub
 
