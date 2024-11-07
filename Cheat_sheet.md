@@ -26,6 +26,8 @@ git log --abbrev-commit: gives you a short- er ID that will still be unique
 - git diff HEAD <ID>: to travel in your timeline, to check differences between versions
 - git diff <ID> HEAD: the order matters! now you see the opposite (things that have been added will look like they have been deleted)
 - git show HEAD <ID>: will print all files with info per line for each file of what has been modified 
+- git revert: undo a change
+- git rebase: more drastic
 
 ## Connect with GitHub
 
@@ -43,3 +45,5 @@ git commit -m "meaningful message"
 git push
 
 ```
+
+## Working in an alternative universe: branching

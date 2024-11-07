@@ -41,4 +41,4 @@ This person then needs to accept the collaboration
 
 ## Solving conflicts 
 
-See presentation :) 
+see presentation
