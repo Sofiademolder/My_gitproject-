@@ -42,3 +42,13 @@ This person then needs to accept the collaboration
 ## Solving conflicts 
 
 see presentation
+
+## Branching
+
+Creating parallel timelines
+
+### The mirror effect
+
+When creating a parallel timeline, the folder in your computer becomes a portal that shows only the reality you choose to be.
+
+when doing `git check <branch>` you choose which reality you are updating, therefore the one you see in your folder.
