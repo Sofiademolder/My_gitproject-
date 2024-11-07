@@ -58,3 +58,15 @@ see presentation
 when you want to merch branches back together
 Very likely to run into a conflict here! But minimize the number of conflicts and name one person to be responsible for solving them 
 
+## Working in an alternative universe: branching
+
+Creating a branch:
+- Alternative history of commits
+- Specific names
+- Independent timelines
+- Connected to a moment in time 
+
+Use of a branch:
+- Experiment risk free
+- Collaborate in a project: you can work at the same time if you both use your own branch 
+- Use different versions of a software
