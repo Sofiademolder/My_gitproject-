@@ -1,11 +1,9 @@
-# Dictionary and concepts
+# Dictionary and main concepts of Git and GitHub
+
+## Introcution
 
 - Git: Time line
 - GitHub: Backup of the time line
-
-You need to review and accept my amazing suggestion!
-
-
 
 ## Conceptual Areas
 
@@ -101,6 +99,7 @@ Tagging is used to give a name to your commits. I don't understand why you would
 ## Forking
 
 Makes a complete copy of the current state of a master branch. You will now earn this 'fork' of the project in this state. 
+You can also use this in a collaboration, because in this way you can control all the merges
 
 ## Working remoteley
 
@@ -108,3 +107,7 @@ Go to your project in GitHub and press '.'
 You will not be able to stage, and everything you commit is immediately pushed 
 (There is no terminal)
 You need to commit and push by clicking on the branch symbol on the right
+
+## Rebasing 
+
+Is similar to merging. You will also combine branches, but it is maybe more intuitive. 
